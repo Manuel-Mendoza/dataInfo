@@ -1,0 +1,80 @@
+{
+  "status": "Discord Bot Status: <span class=\"badge badge-success\"> READY </span> <br>\n        Server Status: <span class=\"badge badge-success\"> ONLINE </span> <br>\n        Process Status: <span class=\"font-weight-light\">spawned</span>",
+  "host": {
+    "memory": {
+      "pct": 23,
+      "text": "23% (0.89/3.84 GB)"
+    },
+    "cpu": {
+      "pct": 16,
+      "text": "16% of 1x 2299 MHz"
+    }
+  },
+  "meta": {
+    "favicon": "favicon_online",
+    "title": "(5) txAdmin"
+  },
+  "players": [
+    {
+      "license": "9b6ad681ab94d52c98085abd7e127ffc4170571e",
+      "id": 1,
+      "name": "Estiven",
+      "ping": 97,
+      "identifiers": [
+        "license:9b6ad681ab94d52c98085abd7e127ffc4170571e",
+        "xbl:2535464703452501",
+        "live:914798610801452",
+        "fivem:4713153"
+      ]
+    },
+    {
+      "license": "54e575869d1aebdceb39635f8cfc19b5b81c748e",
+      "id": 7,
+      "name": "Chelly",
+      "ping": 95,
+      "identifiers": [
+        "steam:1100001365b781f",
+        "license:54e575869d1aebdceb39635f8cfc19b5b81c748e",
+        "xbl:2535456891340881",
+        "live:1899947031072884",
+        "discord:375326552956600322"
+      ]
+    },
+    {
+      "license": "d7f1343376ca40a062b7ad575cfcca7daf8b1c90",
+      "id": 9,
+      "name": "legono899L",
+      "ping": 161,
+      "identifiers": [
+        "steam:11000013c90fa55",
+        "license:d7f1343376ca40a062b7ad575cfcca7daf8b1c90",
+        "xbl:2535433512517659",
+        "live:1055518578675826"
+      ]
+    },
+    {
+      "license": "f8f41a6923b2e1e77bb375941a570a03d6c9b0f7",
+      "id": 11,
+      "name": "oskar1108",
+      "ping": 173,
+      "identifiers": [
+        "steam:11000014332de66",
+        "license:f8f41a6923b2e1e77bb375941a570a03d6c9b0f7",
+        "live:1829578861337634",
+        "discord:681565259101634599"
+      ]
+    },
+    {
+      "license": "c994bbea79234abcffb549da9daea8b98f798af2",
+      "id": 13,
+      "name": "Tenes cp?",
+      "ping": 194,
+      "identifiers": [
+        "steam:11000014248c7ca",
+        "license:c994bbea79234abcffb549da9daea8b98f798af2",
+        "discord:821209923123675196",
+        "fivem:1811474"
+      ]
+    }
+  ]
+}
